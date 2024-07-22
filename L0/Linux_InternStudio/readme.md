@@ -11,7 +11,7 @@
 ## 6、hello_world文件的编辑
 ![](6、hello_world文件的编辑.png "可选的标题")
 ## 7、运行hello_world.py文件（安装gradio包）
-![](7、运行hellow_word.py文件（安装gradio包）.png "可选的标题")
+![](7、运行hello_world.py文件（安装gradio包）.png "可选的标题")
 ## 8、使用ssh命令进行端口映射并在浏览器中访问
 ![](8、使用ssh命令进行端口映射并在浏览器中访问.png "可选的标题")
 ## 9、常用的Linux命令
